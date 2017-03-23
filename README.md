@@ -20,7 +20,7 @@ How to Run ?
 ---------------------
 
         mvn clean package
-        java -jar vendor.jar vendor.Machine 5 50 10 20
+        java -jar vendor-1.0-SNAPSHOT.jar 5 50 10 20
 
  
 
